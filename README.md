@@ -40,16 +40,21 @@ expressModule_F1D022080/
 
 ## Hasil
 1. **GET `/`**
+ <img width="598" height="126" alt="image" src="https://github.com/user-attachments/assets/2e5d9209-9186-4f7b-aacf-5f3540e8d355" />
+
+   
+   <img width="960" height="364" alt="image" src="https://github.com/user-attachments/assets/72abecc4-962a-4633-9359-9416e7f5d8e8" />
+
    ```
    Nama: Muhammad Zidan Azzaki - NIM: F1D022080
    ```
 
-2. **GET `/hitung`**
+3. **GET `/hitung`**
    ```
    Hasil penjumlahan 7 + 8 = 15
    ```
 
-3. **GET `/profile`**
+4. **GET `/profile`**
    ```json
    [
      { "id": 1, "nim": "F1D022080", "nama": "Muhammad Zidan Azzaki", "jurusan": "Teknik Informatika", "angkatan": 2022 },
@@ -59,12 +64,12 @@ expressModule_F1D022080/
    ]
    ```
 
-4. **GET `/profile/1`**
+5. **GET `/profile/1`**
    ```json
    { "id": 1, "nim": "F1D022080", "nama": "Muhammad Zidan Azzaki", "jurusan": "Teknik Informatika", "angkatan": 2022 }
    ```
 
-5. **GET `/pertanyaan`**
+6. **GET `/pertanyaan`**
    ```json
    [
      { "id": 1, "pertanyaan": "Berapa total orang yang menghadiri pesta Andi (termasuk Andi sendiri)?", "jawaban": 19 },
@@ -74,9 +79,10 @@ expressModule_F1D022080/
    ]
    ```
 
-6. **GET `/pertanyaan/1`**
+7. **GET `/pertanyaan/1`**
    ```json
    { "id": 1, "pertanyaan": "Berapa total orang yang menghadiri pesta Andi (termasuk Andi sendiri)?", "jawaban": 19 }
    ```
 
 ---
+
