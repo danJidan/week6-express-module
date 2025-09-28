@@ -50,11 +50,22 @@ expressModule_F1D022080/
    ```
 
 3. **GET `/hitung`**
+   <img width="489" height="124" alt="image" src="https://github.com/user-attachments/assets/e040753a-5ec7-40ac-9f52-dbe254cee410" />
+   <img width="961" height="249" alt="image" src="https://github.com/user-attachments/assets/7452f6f8-c25e-4872-8cd4-f23739914463" />
+
+
    ```
    Hasil penjumlahan 7 + 8 = 15
    ```
 
-4. **GET `/profile`**
+5. **GET `/profile`**
+
+<img width="355" height="62" alt="image" src="https://github.com/user-attachments/assets/a043a382-ae87-4094-8fba-aab8210cf7cc" />
+
+<img width="321" height="99" alt="image" src="https://github.com/user-attachments/assets/d5c063a9-1bb3-4a13-9ce2-9771c9bf8e8f" />
+
+   <img width="958" height="306" alt="image" src="https://github.com/user-attachments/assets/9db84e27-cdcd-4e36-b90c-133bde4e6598" />
+
    ```json
    [
      { "id": 1, "nim": "F1D022080", "nama": "Muhammad Zidan Azzaki", "jurusan": "Teknik Informatika", "angkatan": 2022 },
@@ -64,12 +75,20 @@ expressModule_F1D022080/
    ]
    ```
 
-5. **GET `/profile/1`**
+7. **GET `/profile/1`**
    ```json
    { "id": 1, "nim": "F1D022080", "nama": "Muhammad Zidan Azzaki", "jurusan": "Teknik Informatika", "angkatan": 2022 }
    ```
 
-6. **GET `/pertanyaan`**
+8. **GET `/pertanyaan`**
+
+<img width="368" height="41" alt="image" src="https://github.com/user-attachments/assets/ee3d9d12-3f35-48a7-8351-50ac252083cb" />
+
+<img width="711" height="258" alt="image" src="https://github.com/user-attachments/assets/77eb35bb-a60a-472c-b9eb-20a2e81262c8" />
+
+
+   <img width="961" height="393" alt="image" src="https://github.com/user-attachments/assets/deaf0e35-9f05-4cd8-8ef5-fe2414a75847" />
+
    ```json
    [
      { "id": 1, "pertanyaan": "Berapa total orang yang menghadiri pesta Andi (termasuk Andi sendiri)?", "jawaban": 19 },
@@ -79,10 +98,13 @@ expressModule_F1D022080/
    ]
    ```
 
-7. **GET `/pertanyaan/1`**
+10. **GET `/pertanyaan/1`**
+
+
    ```json
    { "id": 1, "pertanyaan": "Berapa total orang yang menghadiri pesta Andi (termasuk Andi sendiri)?", "jawaban": 19 }
    ```
 
 ---
+
 
