@@ -49,7 +49,7 @@ expressModule_F1D022080/
    Nama: Muhammad Zidan Azzaki - NIM: F1D022080
    ```
 
-3. **GET `/hitung`**
+2. **GET `/hitung`**
    <img width="489" height="124" alt="image" src="https://github.com/user-attachments/assets/e040753a-5ec7-40ac-9f52-dbe254cee410" />
    <img width="961" height="249" alt="image" src="https://github.com/user-attachments/assets/7452f6f8-c25e-4872-8cd4-f23739914463" />
 
@@ -58,9 +58,10 @@ expressModule_F1D022080/
    Hasil penjumlahan 7 + 8 = 15
    ```
 
-5. **GET `/profile`**
+3. **GET `/profile`**
 
-<img width="355" height="62" alt="image" src="https://github.com/user-attachments/assets/a043a382-ae87-4094-8fba-aab8210cf7cc" />
+<img width="287" height="30" alt="image" src="https://github.com/user-attachments/assets/50e8f295-2678-4e9d-9325-b0f7e081d024" />
+
 
 <img width="321" height="99" alt="image" src="https://github.com/user-attachments/assets/d5c063a9-1bb3-4a13-9ce2-9771c9bf8e8f" />
 
@@ -75,16 +76,18 @@ expressModule_F1D022080/
    ]
    ```
 
-7. **GET `/profile/1`**
+4. **GET `/profile/1`**
+   <img width="692" height="263" alt="image" src="https://github.com/user-attachments/assets/25e0d90a-a6aa-421e-a95d-076a111f21f3" />
+   <img width="953" height="269" alt="image" src="https://github.com/user-attachments/assets/b3a824f5-a1f5-44e0-9c0d-6cb191e03ef5" />
+
+
    ```json
    { "id": 1, "nim": "F1D022080", "nama": "Muhammad Zidan Azzaki", "jurusan": "Teknik Informatika", "angkatan": 2022 }
    ```
 
-8. **GET `/pertanyaan`**
+5. **GET `/pertanyaan`**
 
 <img width="368" height="41" alt="image" src="https://github.com/user-attachments/assets/ee3d9d12-3f35-48a7-8351-50ac252083cb" />
-
-<img width="711" height="258" alt="image" src="https://github.com/user-attachments/assets/77eb35bb-a60a-472c-b9eb-20a2e81262c8" />
 
 
    <img width="961" height="393" alt="image" src="https://github.com/user-attachments/assets/deaf0e35-9f05-4cd8-8ef5-fe2414a75847" />
@@ -98,7 +101,9 @@ expressModule_F1D022080/
    ]
    ```
 
-10. **GET `/pertanyaan/1`**
+6. **GET `/pertanyaan/1`**
+<img width="711" height="258" alt="image" src="https://github.com/user-attachments/assets/77eb35bb-a60a-472c-b9eb-20a2e81262c8" />
+<img width="956" height="316" alt="image" src="https://github.com/user-attachments/assets/943abbb4-5b4c-4c56-8d1f-9b4345187671" />
 
 
    ```json
@@ -106,6 +111,7 @@ expressModule_F1D022080/
    ```
 
 ---
+
 
 
 
